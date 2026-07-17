@@ -11,7 +11,7 @@ export default function Home(props) {
 
         <div className="profile-img">
           <img
-            src="src/img/photo_2025-04-27_14-53-24.jpg"
+            src="/img/photo_2025-04-27_14-53-24.jpg"
             alt=""
             className="img-fluid rounded-circle"
           />
@@ -117,7 +117,7 @@ export default function Home(props) {
             </li>
             <li>
               <a href="#contact">
-                <i className="bi bi-envelope navicon"></i> Contact
+                <i className="bi bi-envelope navicon"></i> Contactf
               </a>
             </li>
           </ul>
@@ -127,12 +127,7 @@ export default function Home(props) {
       <main className="main">
         {/* Hero Section */}
         <section id="hero" className="hero section dark-background">
-          <img
-            src="src/img/hero-bg.jpg"
-            alt=""
-            data-aos="fade-in"
-            className=""
-          />
+          <img src="./img/hero-bg.jpg" alt="" data-aos="fade-in" className="" />
 
           <div className="container" data-aos="fade-up" data-aos-delay="100">
             <h2>oem sovan</h2>
@@ -175,7 +170,7 @@ export default function Home(props) {
             <div className="row gy-4 justify-content-center">
               <div className="col-lg-4">
                 <img
-                  src="src/img/my-profile-img.jpg"
+                  src="./img/my-profile-img.jpg"
                   className="img-fluid"
                   alt=""
                 />
@@ -615,7 +610,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/app-1.jpg"
+                      src="/img/portfolio/app-1.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -645,7 +640,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/product-1.jpg"
+                      src="/img/portfolio/product-1.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -675,7 +670,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/branding-1.jpg"
+                      src="/img/portfolio/branding-1.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -705,7 +700,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/branding-2.jpg"
+                      src="/img/portfolio/branding-2.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -735,7 +730,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/branding-3.jpg"
+                      src="/img/portfolio/branding-3.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -765,7 +760,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/product-2.jpg"
+                      src="/img/portfolio/product-2.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -795,7 +790,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/app-2.jpg"
+                      src="/img/portfolio/app-2.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -825,7 +820,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/books-2.jpg"
+                      src="/img/portfolio/books-2.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -855,7 +850,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/app-3.jpg"
+                      src="/img/portfolio/app-3.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -885,7 +880,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/product-3.jpg"
+                      src="/img/portfolio/product-3.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -915,7 +910,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/branding-3.jpg"
+                      src="/img/portfolio/branding-3.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -945,7 +940,7 @@ export default function Home(props) {
                 <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
                   <div className="portfolio-content h-100">
                     <img
-                      src="src/img/portfolio/books-3.jpg"
+                      src="/img/portfolio/books-3.jpg"
                       className="img-fluid"
                       alt=""
                     />
@@ -1173,7 +1168,7 @@ export default function Home(props) {
                   </p>
 
                   <img
-                    src="./src/img/testimonials/testimonials-1.jpg"
+                    src="/img/testimonials/testimonials-1.jpg"
                     className="testimonial-img"
                     alt=""
                   />
@@ -1195,7 +1190,7 @@ export default function Home(props) {
                   </p>
 
                   <img
-                    src="./src/img/testimonials/testimonials-2.jpg"
+                    src="/img/testimonials/testimonials-2.jpg"
                     className="testimonial-img"
                     alt=""
                   />
@@ -1216,7 +1211,7 @@ export default function Home(props) {
                   </p>
 
                   <img
-                    src="./src/img/testimonials/testimonials-3.jpg"
+                    src="/img/testimonials/testimonials-3.jpg"
                     className="testimonial-img"
                     alt=""
                   />
@@ -1238,7 +1233,7 @@ export default function Home(props) {
                   </p>
 
                   <img
-                    src="./src/img/testimonials/testimonials-4.jpg"
+                    src="/img/testimonials/testimonials-4.jpg"
                     className="testimonial-img"
                     alt=""
                   />
@@ -1259,7 +1254,7 @@ export default function Home(props) {
                   </p>
 
                   <img
-                    src="./src/img/testimonials/testimonials-5.jpg"
+                    src="/img/testimonials/testimonials-5.jpg"
                     className="testimonial-img"
                     alt=""
                   />
